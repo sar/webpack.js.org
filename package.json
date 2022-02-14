@@ -149,7 +149,7 @@
     "webpack-merge": "^4.1.0"
   },
   "dependencies": {
-    "ajv": "^5.5.2",
+    "ajv": "^6.12.3",
     "docsearch.js": "^2.5.2",
     "gitter-sidecar": "^1.2.3",
     "handlebars": "4.5.3",
